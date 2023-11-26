@@ -1,5 +1,5 @@
 # osc-param-extension
-# to do:
-# add multi-avatar support
-# add radial float support
-# add int support 
+to do:\n
+add multi-avatar support\n
+add radial float support\n
+add int support\n
